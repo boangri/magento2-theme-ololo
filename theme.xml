@@ -2,6 +2,6 @@
     <title>Boangri Ololo</title> <!-- your theme's name -->
     <parent>Magento/blank</parent> <!-- the parent theme, in case your theme inherits from an existing theme -->
     <media>
-        <preview_image>media/preview.jpg</preview_image> <!-- the path to your theme's preview image -->
+        <preview_image>media/preview.png</preview_image> <!-- the path to your theme's preview image -->
     </media>
 </theme>
